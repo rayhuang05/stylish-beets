@@ -13,6 +13,10 @@ h1 {
 
 nav li {
   list-style-type: none;
+}
+
+a {
+  text-decoration: none;
   color: #8f2440;
   font-family: "PT Serif", serif;
   font-size: 1.125rem;
@@ -24,7 +28,7 @@ img {
   width: 100%;
 }
 
-a:hover{
+a:hover {
   text-decoration: none;
   color: #222;
 }
@@ -34,7 +38,7 @@ figure {
 }
 
 p {
-  font-family: "PT serif", serif;
+  font-family: "PT Serif", serif;
   font-size: 1.125rem;
   list-style: none;
   font-weight: normal;
