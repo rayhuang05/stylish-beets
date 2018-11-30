@@ -1,0 +1,41 @@
+html {
+  background-color: #c9b5ab;
+  line-height: 1.5;
+}
+
+h1 {
+  color: #3f1622;
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  list-style: none;
+}
+
+nav li {
+  list-style-type: none;
+  color: #8f2440;
+  font-family: "PT Serif", serif;
+  font-size: 1.125rem;
+  list-style: none;
+  font-weight: bold;
+}
+
+img {
+  width: 100%;
+}
+
+a:hover{
+  text-decoration: none;
+  color: #222;
+}
+
+figure {
+  padding-top: .25em;
+}
+
+p {
+  font-family: "PT serif", serif;
+  font-size: 1.125rem;
+  list-style: none;
+  font-weight: normal;
+}
